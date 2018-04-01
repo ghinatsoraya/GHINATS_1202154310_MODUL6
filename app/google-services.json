@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "733253293244",
+    "firebase_url": "https://ghinats1202154310modul6.firebaseio.com",
+    "project_id": "ghinats1202154310modul6",
+    "storage_bucket": "ghinats1202154310modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733253293244:android:d3fb2f96a80d4a0e",
+        "android_client_info": {
+          "package_name": "com.example.ghinatsoraya.ghinats_1202154310_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733253293244-siaaacp96g1l3n5ehc3d9msog0dd1rop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ghinatsoraya.ghinats_1202154310_modul6",
+            "certificate_hash": "38f442cc3272f3ea8f2e4ca109737b459e1c6549"
+          }
+        },
+        {
+          "client_id": "733253293244-0btnlt1ra6q2rlhmo4fig26ft20r4l19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcyNlut5_36JVT4KB8FlQC8wT5Vufbx40"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733253293244-0btnlt1ra6q2rlhmo4fig26ft20r4l19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
